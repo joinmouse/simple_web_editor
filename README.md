@@ -3,3 +3,7 @@
 
 1、搭建一个ts+webpack环境
 主要参考资料: webpack官网
+
+
+访问链接：
+https://joinmouse.github.io/simple_web_editor/dist/index.html
